@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobileYandexTestApp2016</string>
+    <string name="title_start_page">Исполнители</string>
+    <string name="title_artist_page">Исполнители</string>
+
+    <string name="message_progress_dialog">Загрузка...</string>
+
+    <string name="text_artist_card">%1$d альбомов, %2$d песен</string>
+    <string name="error_loading">Во время запроса произошла ошибка, повторите попытку позже</string>
+
+</resources>
